@@ -3,7 +3,13 @@
   "private": false,
   "repository": "https://github.com/valado/react-scroll-progress",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "keywords": [
+    "react",
+    "scroll",
+    "indicator",
+    "progress"
+  ],
   "type": "module",
   "main": "dist/react-scroll-progress-indicator.js",
   "types": "dist/main.d.ts",
