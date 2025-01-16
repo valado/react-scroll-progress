@@ -1,6 +1,6 @@
-# react-scroll-progress
+# react-scroll-progress-indicator
 
-Scroll indicator for React
+Page scroll indicator for React
 
 <img src="https://raw.githubusercontent.com/valado/react-scroll-progress/main/public/demo.png" width="400">
 
